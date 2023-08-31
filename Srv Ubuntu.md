@@ -40,12 +40,13 @@ Sudo nano /etc/default/isc-dhcp-server
 
 <br>
 
-Modifier et Ajouter : 
+Modifier et Ajouter le nom de l'interface réseau: 
 
 ```
 INTERFACESv4="enp0s3"
 ```
 
+![isc-dhcp-server](https://github.com/Fairskip/DHCPUbuntu/blob/main/server%20linux_isc-dhcp-server.png)
 <br>
 
 # 5. Configurer DHCP Server
